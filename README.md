@@ -63,3 +63,7 @@ Applying UX research + data science to understand user behavior and inform produ
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RachelFu886&label=Profile+Views" />
 </p>
+
+## 📚 More Projects
+See the full research & data science portfolio here:  
+https://github.com/RachelFu886/ux-research-portfolio
